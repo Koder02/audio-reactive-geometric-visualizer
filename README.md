@@ -6,7 +6,7 @@ The visualization uses different parts of the audio spectrum to control **motion
 
 ## 🎥 Preview
 
-![Audio Reactive Visualizer](assets/demo.gif)
+![Audio Reactive Visualizer](illustration-sample.gif)
 
 ## ✨ Features
 
